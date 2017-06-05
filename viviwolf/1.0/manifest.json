@@ -1,0 +1,21 @@
+{
+  "manifest_version":"1",
+  "type":"Skin",
+  "meta":{
+    "name":"Viviwolf",
+    "version":"1.0",
+    "minimum-overwolf-version": "0.84.0.1",
+    "author":"Tiamarth",
+    "description":"Overwolf skin based on Vivaldi browser.",
+    "icon": "icon.png"
+    },
+    "data": {
+      "components":[
+        "Dock",
+        "Sounds", 
+        "Cursor",
+      ],
+      "games":[
+      ]
+    }
+  }
